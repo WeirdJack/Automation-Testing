@@ -1,6 +1,6 @@
-#   Automation-Testing
+#   Web-Scrapping-Automation
 
-    Implemented Web Automation Testing using Selenium Web Driver and Java.
+    Implemented Web Scrapping and Automation Testing using Selenium Web Driver and Java.
 
 ##  Tools used:
 
